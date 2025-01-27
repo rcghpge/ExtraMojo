@@ -4,10 +4,6 @@ Extra functionality to extend the Mojo stdlib.
 ---
 ## Getting Started with Mojo
 See [Modular](https://docs.modular.com/) documentation to get started with the Modular stack.
-
----
-## Getting Started with Mojo
-See [Modular](https://docs.modular.com/) documentation to get started with the Modular stack.
 *Supports Mojo 24.6.0*
 
 ## Install/Usage
