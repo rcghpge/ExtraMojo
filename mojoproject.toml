@@ -5,6 +5,7 @@ description = "Useful things that aren't in the standard library."
 name = "ExtraMojo"
 version = "0.8.0"
 license = "Unlicense OR MIT"
+platforms = ["linux-64", "osx-arm64"]
 
 [tasks]
 build = "magic run mojo package ExtraMojo -o ExtraMojo.mojopkg"
